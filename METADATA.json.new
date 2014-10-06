@@ -1,0 +1,105 @@
+{
+  "name": "Open Sans",
+  "designer": "Steve Matteson",
+  "license": "Apache2",
+  "visibility": "External",
+  "category": "Sans Serif",
+  "size": 113987,
+  "fonts": [
+    {
+      "name": "Open Sans Semibold",
+      "style": "italic",
+      "weight": 700,
+      "filename": "OpenSans-BoldItalic.ttf",
+      "postScriptName": "OpenSans-BoldItalic",
+      "fullName": "Open Sans Bold Italic",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "normal",
+      "weight": 800,
+      "filename": "OpenSansExtrabold-Regular.ttf",
+      "postScriptName": "OpenSans-Extrabold",
+      "fullName": "Open Sans Extrabold",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "normal",
+      "weight": 400,
+      "filename": "OpenSans-Regular.ttf",
+      "postScriptName": "OpenSans",
+      "fullName": "Open Sans",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "normal",
+      "weight": 700,
+      "filename": "OpenSans-Bold.ttf",
+      "postScriptName": "OpenSans-Bold",
+      "fullName": "Open Sans Bold",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "italic",
+      "weight": 800,
+      "filename": "OpenSansExtrabold-Italic.ttf",
+      "postScriptName": "OpenSans-ExtraboldItalic",
+      "fullName": "Open Sans Extrabold Italic",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "italic",
+      "weight": 300,
+      "filename": "OpenSansLight-Italic.ttf",
+      "postScriptName": "OpenSansLight-Italic",
+      "fullName": "Open Sans Light Italic",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "italic",
+      "weight": 600,
+      "filename": "OpenSansSemibold-Italic.ttf",
+      "postScriptName": "OpenSans-SemiboldItalic",
+      "fullName": "Open Sans Semibold Italic",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "normal",
+      "weight": 300,
+      "filename": "OpenSansLight-Regular.ttf",
+      "postScriptName": "OpenSans-Light",
+      "fullName": "Open Sans Light",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "normal",
+      "weight": 600,
+      "filename": "OpenSansSemibold-Regular.ttf",
+      "postScriptName": "OpenSans-Semibold",
+      "fullName": "Open Sans Semibold",
+      "copyright": "Digitized data copyright (c) 2011, Google Corporation."
+    },
+    {
+      "name": "Open Sans Semibold",
+      "style": "italic",
+      "weight": 400,
+      "filename": "OpenSans-Italic.ttf",
+      "postScriptName": "OpenSans-Italic",
+      "fullName": "Open Sans Italic",
+      "copyright": "Digitized data copyright (c) 2010-2011, Google Corporation."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-02-02"
+}
